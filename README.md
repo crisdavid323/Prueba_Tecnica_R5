@@ -6,105 +6,105 @@ Quisiera compartir con ustedes el detallado de las pruebas recientemente ejecuta
 
 Detalles de las Pruebas:
 
-Caso de Prueba: Login
+- Caso de Prueba: Login
     - Pruebas realizadas: 17
-Desglose por tipo de prueba:
+- Desglose por tipo de prueba:
     - Pruebas Unitarias (PU): 35%
     - Pruebas Funcionales (PF): 47%
     - Pruebas No Funcionales (PNF): 6%
     - Pruebas Integración (PI): 12%
     ![Alt text](Grafico-de-prueba/image.png)
-Estados resultantes:
+- Estados resultantes:
     - No ejecutado: 0
     - Bloqueado: 0
     - Fallado: 7
     - Pasado: 10
     ![Alt text](Grafico-de-prueba/image-1.png)
 
-Caso de Prueba: standard_user
+- Caso de Prueba: standard_user
     - Pruebas realizadas: 46
-Desglose por tipo de prueba:
+- Desglose por tipo de prueba:
     - Pruebas Unitarias (PU): 26%
     - Pruebas Funcionales (PF): 57%
     - Pruebas No Funcionales (PNF): 17%
     - Pruebas Integración (PI): 0%
     ![Alt text](Grafico-de-prueba/image-2.png)
-Estados resultantes:
+- Estados resultantes:
     - No ejecutado: 0
     - Bloqueado: 0
     - Fallado: 12
     - Pasado: 34
     ![Alt text](Grafico-de-prueba/image-3.png)
 
-Caso de Prueba: locked_out_user
+- Caso de Prueba: locked_out_user
     - Pruebas realizadas: 46
-Desglose por tipo de prueba:
+- Desglose por tipo de prueba:
     - Pruebas Unitarias (PU): 26%
     - Pruebas Funcionales (PF): 57%
     - Pruebas No Funcionales (PNF): 17%
     - Pruebas Integración (PI): 0%
     ![Alt text](Grafico-de-prueba/image-4.png)
-Estados resultantes:
+- Estados resultantes:
     - No ejecutado: 46
     - Bloqueado: 0
     - Fallado: 0
     - Pasado: 0
     ![Alt text](Grafico-de-prueba/image-5.png)
 
-Caso de Prueba: problem_user
+- Caso de Prueba: problem_user
     - Pruebas realizadas: 46
-Desglose por tipo de prueba:
+- Desglose por tipo de prueba:
     - Pruebas Unitarias (PU): 26%
     - Pruebas Funcionales (PF): 57%
     - Pruebas No Funcionales (PNF): 17%
     - Pruebas Integración (PI): 0%
     ![Alt text](Grafico-de-prueba/image-6.png)
-Estados resultantes:
+- Estados resultantes:
     - No ejecutado: 8
     - Bloqueado: 1
     - Fallado: 18
     - Pasado: 19
     ![Alt text](Grafico-de-prueba/image-7.png)
 
-Caso de Prueba: performance_glitch_user
+- Caso de Prueba: performance_glitch_user
     - Pruebas realizadas: 46
-Desglose por tipo de prueba:
+- Desglose por tipo de prueba:
     - Pruebas Unitarias (PU): 26%
     - Pruebas Funcionales (PF): 57%
     - Pruebas No Funcionales (PNF): 17%
     - Pruebas Integración (PI): 0%
     ![Alt text](Grafico-de-prueba/image-8.png)
-Estados resultantes:
+- Estados resultantes:
     - No ejecutado: 0
     - Bloqueado: 0
     - Fallado: 17
     - Pasado: 29
     ![Alt text](Grafico-de-prueba/image-9.png)
 
-Caso de Prueba: error_user
+- Caso de Prueba: error_user
     - Pruebas realizadas: 46
-Desglose por tipo de prueba:
+- Desglose por tipo de prueba:
     - Pruebas Unitarias (PU): 26%
     - Pruebas Funcionales (PF): 57%
     - Pruebas No Funcionales (PNF): 17%
     - Pruebas Integración (PI): 0%
     ![Alt text](Grafico-de-prueba/image-10.png)
-Estados resultantes:
+- Estados resultantes:
     - No ejecutado: 4
     - Bloqueado: 1
     - Fallado: 18
     - Pasado: 23
     ![Alt text](Grafico-de-prueba/image-11.png)
 
-Caso de Prueba: visual_user
+- Caso de Prueba: visual_user
     - Pruebas realizadas: 48
-Desglose por tipo de prueba:
+- Desglose por tipo de prueba:
     - Pruebas Unitarias (PU): 25%
     - Pruebas Funcionales (PF): 54%
     - Pruebas No Funcionales (PNF): 21%
     - Pruebas Integración (PI): 0%
     ![Alt text](Grafico-de-prueba/image-12.png)
-Estados resultantes:
+- Estados resultantes:
     - No ejecutado: 0
     - Bloqueado: 0
     - Fallado: 16
@@ -113,19 +113,19 @@ Estados resultantes:
 
 #Resultado Final de las Pruebas:
 
-Tipos de pruebas:
+- Tipos de pruebas:
     - Pruebas Unitarias (PU): 26%
     - Pruebas Funcionales (PF): 56%
     - Pruebas No Funcionales (PNF): 17%
     - Pruebas Integración (PI): 1%
     ![Alt text](Grafico-de-prueba/image-14.png)
-Estados de pruebas:
+- Estados de pruebas:
     - No ejecutado: 58
     - Bloqueado: 2
     - Fallado: 88
     - Pasado: 147
     ![Alt text](Grafico-de-prueba/image-15.png)
-Casos de pruebas:
+- Casos de pruebas:
     - Login: 17
     - standard_user: 46
     - locked_out_user: 46
