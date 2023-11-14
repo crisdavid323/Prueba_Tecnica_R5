@@ -140,12 +140,12 @@ En este informe detallado, encontrarán los resultados de los casos de prueba ej
 #Seguimiento:
     Con base en los tipos de pruebas realizadas, se destaca la posibilidad de realizar pruebas a base de riesgo, especialmente si el proyecto así lo requiere. Además, este informe se presenta al Product Owner (PO), Líder de QA y otras partes interesadas para las siguientes acciones:
 
-    Asignación de Incidencias:
-        Las incidencias encontradas se asignarán a los desarrolladores pertinentes para su atención.
-    Análisis de Incidencias:
-        Se realizará un análisis para determinar si estas incidencias se abordarán en el actual sprint o en futuros sprints, según la prioridad y complejidad.
-    Solución de Incidencias:
-        Una vez que los desarrolladores reporten la solución de estas incidencias, se llevarán a cabo pruebas de regresión para verificar que estén solucionadas y que la corrección no afecte el resto del sistema.
+- Asignación de Incidencias:
+    Las incidencias encontradas se asignarán a los desarrolladores pertinentes para su atención.
+- Análisis de Incidencias:
+    Se realizará un análisis para determinar si estas incidencias se abordarán en el actual sprint o en futuros sprints, según la prioridad y complejidad.
+- Solución de Incidencias:
+    Una vez que los desarrolladores reporten la solución de estas incidencias, se llevarán a cabo pruebas de regresión para verificar que estén solucionadas y que la corrección no afecte el resto del sistema.
 
 Este enfoque nos permitirá mantener un ciclo eficiente de desarrollo y asegurar la calidad del sistema en cada iteración.
 
